@@ -1,6 +1,4 @@
-from email import message
 import re
-import emoji
 import unidecode
 from tqdm import tqdm
 
